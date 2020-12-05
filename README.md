@@ -7,3 +7,5 @@ a classe vai agilizar todo esse processo colocando somente uma linha de código.
 por isso a criação dela para agilizar o processo
 
 um template criado para ser usado com o SQLCE
+OBS: o template esta no GestorDB.cs e no form1.cs a gente tem a interação com os botoes etc...
+
